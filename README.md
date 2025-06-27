@@ -12,6 +12,11 @@
 
 ## Technical Skills
 
+## projects done 
+
+- faucet sepolia
+- Vote system for DAO
+  
 ### Languages
 
 - Solidity – Intermediate level (contract design, inheritance, modifiers, gas-efficient logic)
@@ -34,36 +39,7 @@
 
 ---
 
-## Web3 Project – Ethereum Faucet DApp
-
-### Repository
-
-- **GitHub:** https://github.com/Pierre386101071/faucet-dapp-sepolia
-- **Contract (Sepolia):** `0xf49fc27b1a9299d2f7ef88b8034eca88a908f520`  
-- **Etherscan (Sepolia):** https://sepolia.etherscan.io/address/0xF49fc27B1A9299D2f7Ef88B8034eca88A908F520
-
-### Description
-
-A decentralized faucet smart contract that allows users to claim 0.01 ETH every 24 hours, with a maximum claim limit of 1 ETH per wallet. The project includes a basic front-end built in HTML/JavaScript, integrated with MetaMask using ethers.js.
-
-### Features
-
-- Claim limit: 0.01 ETH per 24h per user
-- Maximum claim cap: 1 ETH per wallet
-- Owner-only funding and withdrawal
-- Mapping-based user tracking and access control
-- `Claimed(address, timestamp)` event emitted on every claim
-- Front-end dApp fully connected to Sepolia testnet and MetaMask
-
-### Stack
-
-- Solidity (contract logic)
-- HTML/CSS + JavaScript
-- ethers.js (contract interaction)
-- Sepolia testnet
-- MetaMask (wallet integration)
-
-### Skills Demonstrated
+### Skills
 
 - Smart contract inheritance and access control (modifier + admin rights)
 - Secure logic (timestamp checking, max caps, ETH transfer)
