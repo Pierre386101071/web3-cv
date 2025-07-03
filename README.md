@@ -16,24 +16,26 @@
 
 - faucet sepolia
 - Vote system for DAO
+- swap sepolia with hardhat
   
 ### Languages
 
 - Solidity – Intermediate level (contract design, inheritance, modifiers, gas-efficient logic)
+- JavaScript / Typescript – Used for tests, deploy contract and front-end integration with MetaMask and ethers.js
+- HTML – Used for frontend 
 - Python – Good proficiency (academic and personal projects)
 - C – Academic background
-- HTML / JavaScript – Used for front-end integration with MetaMask and ethers.js
+
 
 ### Tools & Technologies
 
-- Remix IDE – Writing, compiling, deploying, and testing smart contracts
+- VS Code and Hardhat – Writing, compiling, deploying, testing smart contracts and structuring projects
 - ethers.js – Front-end integration with deployed contracts
 - MetaMask – Wallet integration, Sepolia testnet usage
 - Git & GitHub – Project versioning and open-source publishing
 
 ### Currently Learning
 
-- Hardhat – Smart contract testing and project structuring
 - Solidity (Advanced) – DAO design patterns, secure contract architecture
 - DAO Tooling – Gnosis Safe, Snapshot, Aragon, governance primitives
 
