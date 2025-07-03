@@ -5,7 +5,7 @@
 - **Name:** Pierre Cassagnettes  
 - **GitHub:** https://github.com/Pierre386101071  
 - **Email:** pcassagnettes@gmail.com
-- **Public Wallet (Sepolia):** 0xf83E3EDec611A46033774E05E82a841BAfb0604d
+- **Public Wallet (EVM):** 0x690E86e03118Cb93cca5c528eE06DbFAA49852E7
 - **Objective:** Join a technically oriented DAO to contribute to Web3 projects (smart contracts, tools, front-end dApps)
 
 ---
