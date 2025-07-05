@@ -14,15 +14,16 @@
 
 ## projects done 
 
-- faucet sepolia
-- Vote system for DAO
-- swap sepolia with hardhat
+- swap sepolia with hardhat ( most recent project i completed )  https://github.com/Pierre386101071/Swap_Hardhat_Sepolia
+- faucet sepolia    https://github.com/Pierre386101071/faucet-dapp-sepolia
+- Vote system for DAO   https://github.com/Pierre386101071/VoteDAO-dapp
   
 ### Languages
 
 - Solidity – Intermediate level (contract design, inheritance, modifiers, gas-efficient logic)
 - JavaScript / Typescript – Used for tests, deploy contract and front-end integration with MetaMask and ethers.js
-- HTML – Used for frontend 
+- HTML – Used for frontend
+- CSS – Used for a better style and layout of HTML documents
 - Python – Good proficiency (academic and personal projects)
 - C – Academic background
 
